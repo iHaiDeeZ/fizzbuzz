@@ -4,6 +4,7 @@
 This is program that prints conditionally "Fizz" or "Buzz" based upon given input.
 
 "Fuzz" is printed if the entered number is divisable by 3. While in constrast, 
+
 "Buzz" is printed if the entered number is divisable by 5.
 
 
