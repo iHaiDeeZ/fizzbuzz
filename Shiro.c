@@ -2,26 +2,13 @@
 
 void fizzbuzz(void);
 
-
-
 int main(int argc, char* argv[]){
 
+	fizzbuzz();
 
-fizzbuzz();
-
-
-
-
-
-
-
-
-
+	return 0;
 
 }
-
-
-
 
 void fizzbuzz (void){
 int x;
@@ -46,7 +33,3 @@ else if (x %5 == 0){
 else 
 printf("%d\n", x);
 }
-
-
-
-
